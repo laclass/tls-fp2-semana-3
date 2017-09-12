@@ -4,6 +4,30 @@ body{
 }
 
 div{
-	height: 100px;
+	height: 84px;
 	background-color: #37383a;
+}
+
+.index{
+	border-radius: 15px;
+	position: relative;
+    top: 31px;
+    left: 4%;
+}
+
+article{
+	display: 
+}
+
+.menu  {
+	color: #fff;
+    position: relative;
+    left: 86%;
+	
+}
+a{color:white;
+text-decoration: none;}
+ul{
+	list-style: none;
+	display: flex;
 }
