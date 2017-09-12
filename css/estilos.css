@@ -31,3 +31,9 @@ ul{
 	list-style: none;
 	display: flex;
 }
+
+p{
+	font-family: arial;
+	position: relative;
+	left: 15px;
+}
